@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div align="center">
+  <h2 align="center">Statistics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=GigantiX&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GigantiX&layout=compact&langs_count=6&theme=nightowl&hide_border=true" align="center"/>
+</div>
 <!--
 **GigantiX/GigantiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
